@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veryyy dumb
+- 👋 Hi, I’m dumb
 - 👀 I’m interested in web design (or really anything related to computers)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on your mom lol
